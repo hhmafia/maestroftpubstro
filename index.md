@@ -1,13 +1,10 @@
-## Bienvenue sur Hip.Hop.Board FORUM RAP
-
-You can use the [editor on GitHub](https://github.com/hhmafia/maestroftpubstro/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+ # Configuration for new-pr-welcome - https://github.com/behaviorbot/new-pr-welcome
+-newPRWelcomeComment: Welcome! Congrats on your first pull request to the Hacker theme. If you haven't already, please be sure to check out [the contributing guidelines](https://github.com/pages-themes/hacker/blob/master/docs/CONTRIBUTING.md).
++newPRWelcomeComment: Welcome! Congrats on your first pull request to The Hacker Theme. If you haven't already, please be sure to check out [the contributing guidelines](https://github.com/pages-themes/hacker/blob/master/docs/CONTRIBUTING.md).
+ 
+ # Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge
+-firstPRMergeComment: "Congrats on getting your first pull request to the Hacker theme merged! Without amazing humans like you submitting pull requests, we couldn’t run this project. You rock! :tada:<br /><br />If you're interested in tackling another bug or feature, take a look at [the open issues](https://github.com/pages-themes/hacker/issues), especially those [labeled `help wanted`](https://github.com/pages-themes/hacker/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)."
++firstPRMergeComment: "Congrats on getting your first pull request to The Hacker Theme merged! Without amazing humans like you submitting pull requests, we couldn’t run this project. You rock! :tada:<br /><br />If you're interested in tackling another bug or feature, take a look at [the open issues](https://github.com/pages-themes/hacker/issues), especially those [labeled `help wanted`](https://github.com/pages-themes/hacker/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)."
 ```markdown
 Syntax highlighted code block
 
@@ -34,4 +31,13 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out@@ -14,7 +14,7 @@ requestInfoLabelToAdd: more-information-needed
+ #  Welcome!
+ 
+ # Configuration for new-pr-welcome - https://github.com/behaviorbot/new-pr-welcome
+-newPRWelcomeComment: Welcome! Congrats on your first pull request to the Hacker theme. If you haven't already, please be sure to check out [the contributing guidelines](https://github.com/pages-themes/hacker/blob/master/docs/CONTRIBUTING.md).
++newPRWelcomeComment: Welcome! Congrats on your first pull request to The Hacker Theme. If you haven't already, please be sure to check out [the contributing guidelines](https://github.com/pages-themes/hacker/blob/master/docs/CONTRIBUTING.md).
+ 
+ # Configuration for first-pr-merge - https://github.com/behaviorbot/first-pr-merge
+-firstPRMergeComment: "Congrats on getting your first pull request to the Hacker theme merged! Without amazing humans like you submitting pull requests, we couldn’t run this project. You rock! :tada:<br /><br />If you're interested in tackling another bug or feature, take a look at [the open issues](https://github.com/pages-themes/hacker/issues), especially those [labeled `help wanted`](https://github.com/pages-themes/hacker/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)."
++firstPRMergeComment: "Congrats on getting your first pull request to The Hacker Theme merged! Without amazing humans like you submitting pull requests, we couldn’t run this project. You rock! :tada:<br /><br />If you're interested in tackling another bug or feature, take a look at [the open issues](https://github.com/pages-themes/hacker/issues), especially those [labeled `help wanted`](https://github.com/pages-themes/hacker/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)."
